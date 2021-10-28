@@ -1,0 +1,69 @@
+---
+name: 📝 Bug report
+description: Report a bug, error, or misbehavior
+labels: ["bug", "needs-triage"]
+body:
+- type: markdown
+  attributes:
+    value: |
+      Before you fill out your issue, please make sure it hasn't already been
+      reported by searching [our triage
+      project](https://github.com/orgs/doomemacs/projects/2) **and** that you
+      can reproduce your issue on _the most recent_ version of this project.
+- type: textarea
+  attributes:
+    label: What did you expect to happen?
+    placeholder: When I do X, it should do Y.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: What actually happened?
+    description: |
+      - Include screenshots/casts, if possible
+      - Include logs and error messages (and stack traces if possible)
+      - Avoid large text dumps by using [pastebin.com](https://pastebin.com) instead.
+      - Use [code fences](https://docs.github.com/en/github/writing-on-github/creating-and-highlighting-code-blocks) for code or logs.
+      - Avoid vague phrases like "X does not work" or "X stopped working" without explaining yourself.
+    placeholder: |
+      When I do X, Z happened, producing the following output: https://pastebin.com/fakeurl
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Describe your attempts to resolve the issue
+    description: |
+      Describe resources you consulted or code you tried in order to fix your problem, and their result.
+    placeholder: |
+      I tried setting X to Y, then I tried Z. Here's the code I tried:
+
+      ```python
+      print("hello world")
+      ```
+- type: textarea
+  attributes:
+    label: Steps to reproduce
+    description: |
+      How do we reproduce your issue? Walk me through a minimal test case. Assume you're explaining to a 5 year old.
+    placeholder: |
+      1. ...
+      2. ...
+      3. ...
+      4. Profit?
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Package commit
+    description: |
+      What commit of this package do you experience this issue on?
+    placeholder: e46ca41ef4641461f7be006782e3cfdcf73ba98a
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: System Information
+    description: |
+      Describe the environment you're using this project in, including operating system and any relevant software, and their versions.
+    placeholder: |
+      I use NixOS 21.11 and use this project to eat my homework when my dog isn't around.

@@ -1,0 +1,39 @@
+---
+name: 📝 Feature request
+description: Propose a new idea or feature
+labels: ["enhancement", "needs-triage"]
+body:
+- type: markdown
+  attributes:
+    value: |
+      Before you fill out this request, please make sure it hasn't already been
+      requested by searching the project's source code **and** our issue
+      tracker.
+- type: textarea
+  attributes:
+    label: Describe your request
+    placeholder: |
+      I'd like X to be able to Y, without doing Z.
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Briefly explain its use-case
+    description: |
+      Describe who would use this feature, how they would use it, and why it would be useful to them and this project.
+    placeholder: |
+      If X could do Y, then users wouldn't have to use W.
+
+      Here is how Y is done:
+
+      1. Reticulate some splines
+      2. Burn a house down with lemons
+      3. Build additional pylons
+      4. Acquire bubble gum before kicking ass
+      5. Praise the sun
+  validations:
+    required: true
+- type: markdown
+  attributes:
+    value: |
+      **Thank you for taking the time to fill out a feature request!**

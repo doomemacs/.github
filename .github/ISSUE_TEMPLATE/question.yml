@@ -1,0 +1,12 @@
+---
+name: 📝 Ask a question
+description: When you just have to know...
+labels: ["question", "needs-triage"]
+body:
+- type: textarea
+  attributes:
+    label: What would you like to know?
+    placeholder: |
+      What is your favorite color?
+  validations:
+    required: true
