@@ -6,15 +6,12 @@ contact_links:
   - name: Frequently asked questions
     url: https://docs.doomemacs.org/latest/faq
     about: "Answers to common questions and solutions for frequently brought up issues"
-  - name: 3rd-party learning resources
-    url: https://discourse.doomemacs.org/resources
-    about: "A curated collection of non-official resources to help you learn Emacs and Doom"
-  - name: Visit our website
-    url: https://doomemacs.org
-    about: "Our public discussion and support forum, as well as our public knowledge base"
+  - name: Do-not-PR list
+    url: https://discourse.doomemacs.org/do-not-pr
+    about: "A list of pull requests that won't be accepted"
   - name: Visit our Discourse
     url: https://discourse.doomemacs.org
-    about: "Our public discussion and support forum, as well as our public knowledge base"
+    about: "Our public discussion and support forum; includes guides, news, and resources"
   - name: Visit our Discord
     url: https://doomemacs.org/discord
     about: "A less formal space to chat, get to know the community, and get help quick"
