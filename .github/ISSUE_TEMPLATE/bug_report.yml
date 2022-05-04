@@ -1,7 +1,7 @@
 ---
 name: 📝 Bug report
 description: Report a bug, error, or misbehavior
-labels: ["bug", "needs-triage"]
+labels: ["is:bug", "needs-triage"]
 body:
 - type: markdown
   attributes:

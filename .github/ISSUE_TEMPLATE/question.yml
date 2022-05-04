@@ -1,7 +1,7 @@
 ---
 name: 📝 Ask a question
 description: When you just have to know...
-labels: ["question", "needs-triage"]
+labels: ["is:support", "needs-triage"]
 body:
 - type: textarea
   attributes:
