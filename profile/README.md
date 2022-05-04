@@ -3,6 +3,10 @@
 [![Discourse server](https://img.shields.io/discourse/users?server=https%3A%2F%2Fdiscourse.doomemacs.org&logo=discourse&label=Discourse&style=flat-square&color=9cf)][discourse]
 [![Support the project](https://img.shields.io/badge/Support-the%20project-d5649f?style=flat-square&logo=github-sponsors)][support]
 
+<a href="http://ultravioletbat.deviantart.com/art/Yay-Evil-111710573">
+  <img src="https://raw.githubusercontent.com/hlissner/doom-emacs/screenshots/cacochan.png" align="right" />
+</a>
+
 > It's a tale as old as time: a stubborn, shell-dwelling, and melodramatic
 > vimmer -- tormented by Vimscript and his boundless productivity -- makes a
 > formal request to the netherworld for a transfer. They agree. The terms? He
@@ -14,8 +18,6 @@ starter kit attached. It's tailored for [bankruptcy veterans][bankruptcy]
 seeking a faster, more reliable, and reproducible foundation for their next
 config, or for beginners who want a softer introduction to our favorite
 operating system.
-
-![Yay, evil!](https://raw.githubusercontent.com/hlissner/doom-emacs/screenshots/cacochan.png)
 
 ### Quick install
 
