@@ -22,8 +22,8 @@ operating system.
 ### Quick install
 
 ``` sh
-git clone --depth 1 --single-branch https://github.com/doomemacs/doomemacs ~/.config/emacs
-~/.config/emacs/bin/doom install
+git clone --depth 1 https://github.com/doomemacs/doomemacs ~/.emacs.d
+~/.emacs.d/bin/doom install
 ```
 
 
