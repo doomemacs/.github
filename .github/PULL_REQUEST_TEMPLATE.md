@@ -2,9 +2,9 @@
 
 Replace this with a summary of what you've changed and why, followed by a list of issues it affects, if any.
 
-Fixes #0000
-References #0000
-Replaces #0000
+Fix: #0000
+Ref: #0000
+Close: #0000
 
 -----
 - [ ] I searched the issue tracker and this hasn't been PRed before.
