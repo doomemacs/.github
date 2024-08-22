@@ -8,8 +8,8 @@ Close: #0000
 
 -----
 - [ ] I searched the issue tracker and this hasn't been PRed before.
-- [ ] My changes are not on [the do-not-PR list](https://doomemacs.org/d/do-not-pr) for this project.
-- [ ] My commits conform to [the git conventions](https://doomemacs.org/d/git-conventions).
+- [ ] My changes are not on [the do-not-PR list](https://doomemacs.org/donotpr) for this project.
+- [ ] My commits conform to [Doom's git conventions](https://doomemacs.org/d/git-conventions).
 - [ ] My changes are visual; I've included before and after screenshots.
 - [ ] I am blindly checking these off.
 - [ ] Any relevant issues or PRs have been linked to.
