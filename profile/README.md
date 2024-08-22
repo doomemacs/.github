@@ -1,4 +1,4 @@
-![Supports Emacs 27.1 - 29.2](https://img.shields.io/badge/Supports-Emacs_27.1--29.2-blueviolet.svg?style=flat-square&logo=GNU%20Emacs&logoColor=white)
+![Supports Emacs 27.1 - 29.4](https://img.shields.io/badge/Supports-Emacs_27.1--29.3-blueviolet.svg?style=flat-square&logo=GNU%20Emacs&logoColor=white)
 [![Discord Server](https://img.shields.io/discord/406534637242810369?color=738adb&label=Discord&logo=discord&logoColor=white&style=flat-square)][discord]
 [![Discourse server](https://img.shields.io/discourse/users?server=https%3A%2F%2Fdiscourse.doomemacs.org&logo=discourse&label=Discourse&style=flat-square&color=9cf)][discourse]
 [![Support the project](https://img.shields.io/badge/Support-the%20project-d5649f?style=flat-square&logo=github-sponsors)][support]
