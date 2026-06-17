@@ -20,25 +20,56 @@ for beginners who want a softer introduction to our favorite operating system.
 
 ## Quick start
 
+### Install
+
 ``` sh
-git clone --depth 1 https://github.com/doomemacs/doomemacs ~/.config/emacs
+git clone --depth 1 https://github.com/doomemacs/core ~/.config/emacs   # or ~/.emacs.d
 ~/.config/emacs/bin/doom install
 ```
 
 This is the quickest way to get a Doom environment up and running. Visit our
 [getting started guide][getting-started] for more in-depth instructions.
 
+### Updating
+
+``` sh
+~/.config/emacs/bin/doom upgrade
+```
+
+If this fails, see `doom upgrade --help` for steps to manually update Doom.
+
 
 ## Prerequisites
-- Emacs 27.1–30.1 **(30.1 is recommended)**
-- Git 2.23+
-- Ripgrep 11.0+
+- GNU Emacs 27.1–30.2 **(30.2 is recommended)**
+  - If only using Doom's core, 27.1+ is required.
+  - If using Doom's modules (especially tree-sitter support), 29.1+ is required.
+- Git >= 2.23
+- Ripgrep >= 11.0
+- **Emacs Dependencies:**
+  - GNU variants of `find`, `ls`, `diff`, and `tar`
+  - Symbola font (Emacs' fallback font for glyphs it can't display)
+- **Optional, but recommended:**
+  - [fd] 7.3.0+ (used to improve file indexing performance)
+  - "Symbols" Nerd Font (optional — GUI only): Doom uses this font to display
+    icons. Linux users can install it via their OS package manager or from
+    within Doom Emacs via ~M-x nerd-icons-install-font~. Windows and MacOS users
+    will need to manually install the font from
+    [nerdfonts.com](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/NerdFontsSymbolsOnly.zip).
+    Alternatively, you can use one of the many patched Nerd Fonts as your
+    primary font in Emacs.
 
 > [!WARNING]
-> Doom core supports 27.1, but Doom's modules requires 28.1 at minimum. Some
-> modules (particularly tree-sitter) require 29.1 or newer. Other module
-> requirements may apply, so don't forget to run `$ doom doctor` after
-> installing Doom!
+> **Avoid unstable and pre-release builds of Emacs.** These end in `.50`, `.60`,
+> or `.9X` (e.g. `28.1.91`). Doom should generally work on Emacs HEAD (the
+> maintainer dogfoods it), but support lags behind the bleeding edge by at least
+> a month or so.
+ 
+> [!IMPORTANT]
+> Many of [Doom's modules](https://github.com/doomemacs/modules) have their own
+> dependencies. Visit their README.org for instructions on how to acquire them
+> (accessible within Doom Emacs via `M-x doom/help-modules` too). Running `$
+> doom doctor` in the shell will summarize what dependencies you're missing (and
+> diagnose any common issues with your environment).
 
 
 ## Project resources
