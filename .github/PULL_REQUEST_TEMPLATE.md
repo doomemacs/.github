@@ -1,6 +1,10 @@
 <!-- ⚠️ Please do not ignore this template! -->
 
-{{Summarize here what you've changed and why. Any extra commentary may go here as well, including references to any issues/PRs related to it. If your changes are visual, include before and after screenshots please!}}
+<!--
+  Summarize what you've changed and why. Include references to related
+  issues/PRs. If changes are visual, include before and after screenshots
+  please!
+-->
 
 -----
 - [ ] I searched the issue tracker and this hasn't been PRed before.
@@ -16,10 +20,10 @@
  ❤ Thank you for taking the time to contribute! Please be patient while we get
    around to reviewing your PR. 
 
-   - Once a maintainer approves it, there's nothing left to do. It will
-     eventually be merged.
-   - If we convert your PR to a Draft, it generally means we like the idea, but
-     some more work must be done before it is merge ready.
+   - Once approved by a maintainer, you don't have to do anything more. It will
+     be merged eventually!
+   - If your PR is converted to a Draft, it means we approve of the idea, but
+     more work here or elsewhere is needed, please be patient.
    - If you decide to close your PR, please let us know why you did so.
 
 -->
