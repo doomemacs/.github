@@ -74,11 +74,11 @@ If this fails, see `doom upgrade --help` for steps to manually update Doom.
 
 ## Project resources
 
-- [Homepage](https://doomemacs.org) (WIP)
-- [Discussions board](https://doomemacs.org/discuss)
-- [Discord server](https://doomemacs.org/discord)
-- [Official documentation](https://docs.doomemacs.org) (WIP)
-- [Community wiki](https://wiki.doomemacs.org) (WIP)
+- [doomemacs.org](https://doomemacs.org) (WIP)
+- [doomemacs.org/discuss](https://doomemacs.org/discuss) -- Github discussions board
+- [doomemacs.org/discord](https://doomemacs.org/discord) -- Discord server
+- [docs.doomemacs.org](https://docs.doomemacs.org) (WIP)
+- [wiki.doomemacs.org](https://wiki.doomemacs.org) (WIP)
 - [Announcements](https://doomemacs.org/discuss/categories/announcements)
 - [Release notes](https://doomemacs.org/releases) (WIP)
 - [Project roadmap](https://doomemacs.org/roadmap) (WIP)
