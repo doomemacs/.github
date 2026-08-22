@@ -1,5 +1,5 @@
 [![Discord Server](https://img.shields.io/discord/406534637242810369?color=738adb&label=Discord&logo=discord&logoColor=white&style=flat-square)][discord]
-[![Discussions board](https://img.shields.io/github/discussions/doomemacs/community?label=Discussions&logo=github&style=flat-square)][discuss]
+[![Github Discussions](https://img.shields.io/github/discussions/doomemacs/community?label=Discussions&logo=github&style=flat-square)][discuss]
 [![Support the project](https://img.shields.io/badge/Support-the%20project-d5649f?style=flat-square&logo=github-sponsors)](#heart-support-the-project)
 
 <a href="http://ultravioletbat.deviantart.com/art/Yay-Evil-111710573">
@@ -75,12 +75,11 @@ If this fails, see `doom upgrade --help` for steps to manually update Doom.
 ## Project resources
 
 - [doomemacs.org](https://doomemacs.org) (WIP)
-- [doomemacs.org/discuss](https://doomemacs.org/discuss) -- Github discussions board
-- [doomemacs.org/discord](https://doomemacs.org/discord) -- Discord server
 - [docs.doomemacs.org](https://docs.doomemacs.org) (WIP)
 - [wiki.doomemacs.org](https://wiki.doomemacs.org) (WIP)
-- [Announcements](https://doomemacs.org/discuss/categories/announcements)
-- [Release notes](https://doomemacs.org/releases) (WIP)
+- [discuss.doomemacs.org][discuss] -- Github discussions board
+- [discord.doomemacs.org][discord] -- Discord server
+- [Announcements](https://doomemacs.org/news)
 - [Project roadmap](https://doomemacs.org/roadmap) (WIP)
 - [Do-Not-PR list](https://doomemacs.org/donotpr)
 - [Packages under review](https://doomemacs.org/package-review)
@@ -88,7 +87,7 @@ If this fails, see `doom upgrade --help` for steps to manually update Doom.
 
 ### Frequently asked questions
 
-- [Common issues](https://git.doomemacs.org/projects/2/views/34)
+- [Common issues](https://doomemacs.org/projects/2/views/34)
 - [About the project](https://doomemacs.org/faq) (WIP)
 - [About the community](https://git.doomemacs.org/community/#frequently-asked-questions)
 
@@ -116,8 +115,8 @@ Help us keep the lights on by:
 - [Sponsoring the author](https://doomemacs.org/sponsor).
 
 
-[discord]: https://doomemacs.org/discord
-[discuss]: https://doomemacs.org/discuss
+[discord]: https://discord.doomemacs.org
+[discuss]: https://discuss.doomemacs.org
 [emacs]: https://www.gnu.org/software/emacs/
 [support]: https://doomemacs.org/sponsor
-[getting-started]: https://github.com/doomemacs/doomemacs/blob/master/docs/getting_started.org#install
+[getting-started]: https://github.com/doomemacs/core/blob/master/docs/getting_started.org#install

@@ -11,8 +11,9 @@ body:
       > [!IMPORTANT]
       > Before you fill out this bug report, please be aware of the following:
       >
-      > - This is not the place for feature requests, general user support, PSAs, or discussions/RFCs. Post those on [our Github discussion board](https://doomemacs.org/discuss) or [our Discord server](https://doomemacs.org/discord) instead — whichever you prefer.
-      > - Make sure your issue hasn't already been reported: search the issue tracker, [documentation](https://docs.doomemacs.org), [FAQ](https://docs.doomemacs.org/-/faq), [discussion board](https://doomemacs.org/discuss), and [Google](https://google.com).
+      > - This is not the place for feature requests, general user support, PSAs, or discussions/RFCs. Post those on [our Github Discussions](https://discuss.doomemacs.org) or [our Discord server](https://discuss.doomemacs.org) instead — whichever you prefer.
+      > - Make sure your issue is in the correct repo! If you aren't sure, post your issue on [our Github Discussions forum](https://discuss.doomemacs.org) instead.
+      > - Make sure your issue hasn't already been reported: search the issue tracker, [documentation](https://docs.doomemacs.org), [FAQ](https://doomemacs.org/faq), [discussion board](https://discuss.doomemacs.org), and [Google](https://google.com).
       > - Consult [the debugging guide](https://discourse.doomemacs.org/t/55) for ways to investigate your issue.
       > - Include [backtraces](https://discourse.doomemacs.org/t/85) for any error messages.
       >

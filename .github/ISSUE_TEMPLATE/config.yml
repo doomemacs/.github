@@ -1,10 +1,10 @@
 blank_issues_enabled: false
 contact_links:
   - name: 📝 User Support
-    url: https://doomemacs.org/discuss/new?category=questions
+    url: https://discuss.doomemacs.org/new?category=questions
     about: "Ask the community for help"
   - name: 📣 Announcements
-    url: https://github.com/doomemacs/community/discussions/categories/announcements
+    url: https://discuss.doomemacs.org/categories/announcements
     about: "Follow project news, releases, and announcements"
   - name: Official Documentation
     url: https://docs.doomemacs.org
@@ -19,8 +19,8 @@ contact_links:
     url: https://doomemacs.org/donotpr
     about: "A list of pull requests that won't be accepted"
   - name: Visit our Discussions board
-    url: https://doomemacs.org/discuss
+    url: https://discuss.doomemacs.org
     about: "Our public discussion and user support forum"
   - name: Visit our Discord
-    url: https://doomemacs.org/discord
+    url: https://discord.doomemacs.org
     about: "A less formal space to chat, get to know the community, and get help quick"
