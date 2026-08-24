@@ -40,9 +40,9 @@ If this fails, see `doom upgrade --help` for steps to manually update Doom.
 
 
 ## Prerequisites
-- GNU Emacs 27.1–30.2 **(30.2 is recommended)**
-  - If only using Doom's core, 27.1+ is required.
-  - If using Doom's modules (especially tree-sitter support), 29.1+ is required.
+- GNU Emacs 27.1–31.1 **(31.1 is recommended)**
+  - Using only Doom's CLI requires 27.1+
+  - Using Doom as a starter kit requires 29.1+
 - Git >= 2.23
 - Ripgrep >= 11.0
 - **Emacs Dependencies:**
