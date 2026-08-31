@@ -12,9 +12,9 @@ contact_links:
   # - name: Community Wiki
   #   url: https://wiki.doomemacs.org
   #   about: "The Community-maintained wiki"
-  - name: Frequently asked questions
-    url: https://docs.doomemacs.org/latest/faq
-    about: "Answers to common questions and solutions for frequently brought up issues"
+  # - name: Frequently asked questions
+  #   url: https://docs.doomemacs.org/latest/faq
+  #   about: "Answers to common questions and solutions for frequently brought up issues"
   - name: Do-not-PR list
     url: https://doomemacs.org/donotpr
     about: "A list of pull requests that won't be accepted"
