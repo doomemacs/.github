@@ -1,3 +1,10 @@
+> [!CAUTION]
+> **`doomemacs.com` is not associated with nor endorsed by this project!**
+> `doomemacs.org` is our one and only domain. [Read our announcement about it
+> here](https://github.com/orgs/doomemacs/discussions/129).
+
+-----
+
 [![Discord Server](https://img.shields.io/discord/406534637242810369?color=738adb&label=Discord&logo=discord&logoColor=white&style=flat-square)][discord]
 [![Github Discussions](https://img.shields.io/github/discussions/doomemacs/community?label=Discussions&logo=github&style=flat-square)][discuss]
 [![Support the project](https://img.shields.io/badge/Support-the%20project-d5649f?style=flat-square&logo=github-sponsors)](#heart-support-the-project)
